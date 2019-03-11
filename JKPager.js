@@ -1,8 +1,5 @@
-//_PopNoticeResult_AddInterviewee.cshtml
- 
-
-
 var JKPager = JKPager || {};
+
 JKPager.Setting = {
     page: 1, //현재 페이지
     pageItemCount: 10, //한 페이지에 나오는 아이템의 개수
