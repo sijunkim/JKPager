@@ -1,5 +1,7 @@
 //_PopNoticeResult_AddInterviewee.cshtml
  
+
+
 var JKPager = JKPager || {};
 JKPager.Setting = {
     page: 1, //현재 페이지
