@@ -5,6 +5,8 @@
  * 3. 뒤로가기, 앞으로가기 기능을 지원해야 함
  */
 
+
+
 var JKPager = JKPager || {};
 JKPager.Setting = {
     page: 1, //현재 페이지
